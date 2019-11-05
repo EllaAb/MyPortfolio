@@ -1,0 +1,33 @@
+header {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 240px;
+    font-family: verdana ;
+}
+
+h1 {
+    margin:0;
+    font-size: 4rem;
+    color:#F37335;
+}
+h2,h3,h4{
+    color:#F37335;
+    
+
+}
+
+
+.social-links {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .social-links i {
+    color: white;
+    font-size: 5em;
+    padding: 8px;
+  }
+
+

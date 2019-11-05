@@ -1,0 +1,50 @@
+
+  
+  body {
+    background-color:white;
+    color:#663300;
+    margin:0;
+    
+      
+    font-family: Verdana, sans-serif;
+    line-height: 1.5;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+
+  .Name-Res {
+   
+    padding-left:200px;  
+    color:#79591d; 
+    line-height:300%; 
+    font-family: verdana, serif;
+    vertical-align:bottom;
+    display:inline;
+    text-shadow: 1px 1px 1px #000;
+    
+ }
+
+  .container {
+   margin: auto;
+   padding: 50px;
+   width: 80%;
+   
+   -webkit-box-shadow: 5px 5px 5px #aa783f;
+   -moz-box-shadow: 5px 5px 5px #aa783f;
+   box-shadow: 5px 5px 5px #aa783f;	 
+
+   
+	
+  }
+  .Res-Header {
+
+    background:#aa783f;
+      height:90px;
+      
+  }
+  
+
+
