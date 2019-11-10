@@ -9,14 +9,14 @@ class Projects extends React.Component {
     render() {
         return  (
 
-     <div className="App">
+     <div className="Prj">
                
-        <header className="App-header">
+        <header className="Prj-header">
               
               <h4> You can take a close look to my projects...<br/> just click to the code below. </h4> 
                
               <a href="https://github.com/EllaAb?tab=repositories" >
-               <img  src={projects} alt="projects"  className="App-logo" />
+               <img  src={projects} alt="projects"  className="Prj-logo" />
               </a>
            
         </header>
